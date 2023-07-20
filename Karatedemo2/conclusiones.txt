@@ -1,0 +1,6 @@
+Conclusiones:
+- Con Karate framework es mas facil realizar los test especificos de API
+- Karate framework se puede integrar bien con otros frameworks como Cucumber para un mejor test automatico
+- Karate se integra bien con Java
+- Los test scripts de Karate framework son faciles de entender
+- Karate framework permite customizar funciones en Java
